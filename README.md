@@ -53,5 +53,8 @@ Project Organization
 
 
 --------
+I have added my original datasets into raw folder under data and have removed some of the data and placed into interim folder. Final result files is under processed folder.
+My jupyter notebook is inside notebooks folder and visualization file is under figures folder reports folder .
+I tried merging datasets having happiness rate vs population density,economy and net migration rate.
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
